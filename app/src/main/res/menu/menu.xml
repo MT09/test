@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_xemdssv"
+        android:title="Xem danh sách sinh viên"/>
+    <item android:id="@+id/item_xemdsLop"
+        android:title="Xem danh sách Lớp">
+            <menu>
+                <item android:id="@+id/item_K41cntta"
+                    android:title="K41.CNTT.A"/>
+                <item android:id="@+id/item_K41cnttb"
+                    android:title="K41.CNTT.B"/>
+                <item android:id="@+id/item_K41cnttc"
+                    android:title="K41.CNTT.C"/>
+            </menu>
+    </item>
+</menu>
